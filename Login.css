@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #7d1ec3;
+}
+.user-icon {
+  justify-content: center;
+  align-content: center;
+  border-radius: 100px;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 50%;
+  padding: 50px;
+  width: 300px;
+  left: 50px;
+  background: white;
+  
+}
+.text-input {
+  border: none;
+  padding: 4px 50px;
+  margin: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  justify-content: center;
+}
+.login-text {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  position: static;
+  text-align: center;
+  justify-content: center;
+}
+.btn {
+  background-color: #9442fe;
+  color: white;
+  border: none;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  justify-content: center;
+}
+.submit-btn {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
+.footer-text {
+  text-align: center;
+}
